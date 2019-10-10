@@ -1,5 +1,4 @@
 # Jesper-L.github.io
-!DOCTYPE html
 <html>
 	<head>
 		<title>Bananer</title>
@@ -8,5 +7,6 @@
 	<body>
 		<br>
 		<strong><h1>HTX</h1></strong>
+		<font size="12">Er du dagens dato? fordi du er en 10/10</font>
 	</body>
 </html>
