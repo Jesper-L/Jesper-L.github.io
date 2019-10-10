@@ -1,4 +1,5 @@
-# Jesper-L.github.io!DOCTYPE html
+# Jesper-L.github.io
+!DOCTYPE html
 <html>
 	<head>
 		<title>Bananer</title>
