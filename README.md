@@ -1,2 +1,4 @@
 # Jesper-L.github.io
-- [Hjemmeside](webside/)
+- [Om mig](webside/)
+- [Kage]()
+- [Stickman]()
